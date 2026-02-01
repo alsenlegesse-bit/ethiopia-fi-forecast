@@ -1,0 +1,15 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,original_text,collected_by,collection_date,notes
+observation,access,Account Ownership,ACC_OWNERSHIP,14.0,2011-12-31,Global Findex,,high,14% of adults have accounts,Data Team,2026-01-31,2011 Survey
+observation,access,Account Ownership,ACC_OWNERSHIP,22.0,2014-12-31,Global Findex,,high,22% of adults have accounts,Data Team,2026-01-31,2014 Survey
+observation,access,Account Ownership,ACC_OWNERSHIP,35.0,2017-12-31,Global Findex,,high,35% of adults have accounts,Data Team,2026-01-31,2017 Survey
+observation,access,Account Ownership,ACC_OWNERSHIP,46.0,2021-12-31,Global Findex,,high,46% of adults have accounts,Data Team,2026-01-31,2021 Survey
+observation,access,Account Ownership,ACC_OWNERSHIP,49.0,2024-12-31,Global Findex,,high,49% of adults have accounts,Data Team,2026-01-31,2024 Survey
+observation,usage,Digital Payment Adoption,USG_DIGITAL_PAYMENT,9.45,2024-12-31,Global Findex,,high,9.45% mobile money adoption,Data Team,2026-01-31,2024 Survey
+event,,Telebirr Launch,EVENT_TELEBIRR,,2021-05-01,Ethio Telecom,,high,Mobile money service launch,Data Team,2026-01-31,Major market entry
+event,,M-Pesa Entry,EVENT_MPESA,,2023-08-01,Safaricom,,high,Second mobile money operator,Data Team,2026-01-31,Increased competition
+target,access,Account Ownership Target,TARGET_ACC_OWNERSHIP,60.0,2027-12-31,NFIS-II,,high,National target 60%,Data Team,2026-01-31,Policy goal
+observation,infrastructure,4G Coverage (%),INF_4G_COVERAGE,45.0,2024-12-01,GSMA,,high,,,,
+observation,infrastructure,Smartphone Penetration (%),INF_SMARTPHONE,35.0,2024-12-01,Ethio Telecom,,medium,,,,
+observation,infrastructure,Agent Density,INF_AGENT_DENSITY,120.0,2024-12-01,NBE,,high,,,,
+observation,infrastructure,ATM per 100k adults,INF_ATM_DENSITY,8.0,2024-12-01,IMF FAS,,high,,,,
+observation,infrastructure,Bank Branches per 100k adults,INF_BANK_DENSITY,5.0,2024-12-01,IMF FAS,,high,,,,
